@@ -3,7 +3,7 @@ Unassisted game playing bot using NEAT.
 
 This project was a part of the CS561 Artificial Intelligence course at IIT Guwahati.
 
-Video demo : https://www.youtube.com/watch?v=RsuPtCvKYCE
+Video demo : <a href="https://www.youtube.com/watch?v=RsuPtCvKYCE" target="_blank"> youtube </a>
 
 Requirements for running the script :
 
